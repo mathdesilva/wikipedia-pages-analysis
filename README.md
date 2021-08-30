@@ -8,7 +8,7 @@ Nesse projeto a base de dados ultilizada foi extraida da bilioteca da [wikipedia
 
 ## Grafo
 
-Para visualizar o grafo resultante e analisado, acesse o [link do Gephi]().
+Para visualizar o grafo resultante e analisado, acesse o [link do Gephi](https://matheusmas132.github.io/wikipedia-pages-analysis/gephi-result/).
 Para entender mais sobre o funcionamento do codigo e a ideia por tras do projeto entre no [artigo do Medium](https://matheus-mas132.medium.com/pante%C3%A3o-roma-an%C3%A1lise-das-cita%C3%A7%C3%B5es-nas-p%C3%A1ginas-da-wikip%C3%A9dia-20df47b0838c) que foi teito em referência a esse projeto.
 
 ## Autoria
