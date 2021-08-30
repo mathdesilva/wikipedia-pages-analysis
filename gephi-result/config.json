@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://matheus-mas132.medium.com/pante%C3%A3o-roma-an%C3%A1lise-das-cita%C3%A7%C3%B5es-nas-p%C3%A1ginas-da-wikip%C3%A9dia-20df47b0838c",
+    "text": "Matheus de Andrade e Pedro Henrique"
+  },
+  "text": {
+    "more": "As redes estão presentes em todos os tipos de interação, desde uma comunicação simples até mais diversas formas de obtenção de conhecimento, a wikipédia por exemplo é um dos sites mais famosos da internet e muito conhecido por sua diversidade de conteúdo, neste projeto faremos um estudo de caso, onde através de ferramentas de análise de redes, criaremos um grafo que representa a conexão entre os hyperlinks de páginas na wikipedia tendo seu ponto inicial a página Panteão. Depois faremos uma análise dessa rede, observando suas características e por fim vendo que conclusões podemos extrair dessa análise.\n\nVeja mais sobre em https://matheus-mas132.medium.com/pante%C3%A3o-roma-an%C3%A1lise-das-cita%C3%A7%C3%B5es-nas-p%C3%A1ginas-da-wikip%C3%A9dia-20df47b0838c",
+    "intro": "Veja mais em https://matheus-mas132.medium.com/pante%C3%A3o-roma-an%C3%A1lise-das-cita%C3%A7%C3%B5es-nas-p%C3%A1ginas-da-wikip%C3%A9dia-20df47b0838c",
+    "title": "Wikipedia Pages Citation Network"
+  },
+  "legend": {
+    "edgeLabel": "Citation",
+    "colorLabel": "Community",
+    "nodeLabel": "Wikipedia Pages"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "In-Degree"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
